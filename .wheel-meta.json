@@ -1,0 +1,22 @@
+{
+  "wheel_id": 70,
+  "slug": "bendigofinancebroker-103",
+  "project": "business-loans-bendigo-buyer-tips-bendigofinancebroker-103",
+  "parent_t1_ref": "bendigofinancebroker-002",
+  "node_role": "feeder",
+  "money_target": "bendigofinancebroker.com.au",
+  "primary_kw": "business loans bendigo buyer tips",
+  "intended_url": "https://business-loans-bendigo-buyer-tips-bendigofinancebroker-103.onrender.com/",
+  "links": [
+    {
+      "target_url": "https://business-loans-bendigo-bendigofinancebroker-150.vercel.app/",
+      "anchor": "business loans bendigo",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://business-loans-bendigo-bendigofinancebroker-150.vercel.app/",
+      "anchor": "business loans bendigo",
+      "rel": "follow"
+    }
+  ]
+}
